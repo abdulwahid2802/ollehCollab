@@ -1,3 +1,6 @@
-// man sms ni olsayz yozing kn man yangi file ga qiling menga 
-// problem bo'lmasn men o'wa file dan faqat pull qilaman 
-// man endichi bordimi email notification
+// man mobodo git ga real na access qilolmasayz denied desa
+// blackboard
+// login: 16012693
+// password: Mili1996
+// assignment section ga kiring
+

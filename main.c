@@ -4,3 +4,7 @@
 // password: Mili1996
 // assignment section ga kiring
 
+
+
+
+// man 5 ham tugadi
